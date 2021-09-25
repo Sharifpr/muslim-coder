@@ -1,0 +1,12 @@
+.header {
+    display: flex;
+    text-align: center;
+    background: #0085f1;
+    padding: 10px;
+    text-align: center;
+}
+
+.header h1 {
+    font-size: 1.8rem;
+    margin: 0 1rem;
+}
