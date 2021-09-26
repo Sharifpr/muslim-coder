@@ -4,7 +4,7 @@
         "firstName": "Sharif",
         "lastName": "Ahmed",
         "gender": "Male",
-        "email": "rpeacher0@yellowbook.com",
+        "email": "rpcher0@yellowbook.com",
         "phone": "+7-798-596-1612",
         "address": "314 Continental Road",
         "salary": 1000,
@@ -30,7 +30,7 @@
         "phone": "+86-403-417-7416",
         "address": "005 Express Road",
         "salary": 1239,
-        "image": "https://i.ibb.co/gZSpVMC/bewakoof-com-official-205182.jpg"
+        "image": "https://i.ibb.co/Nr9g2PX/7913n.jpg"
     },
     {
         "id": 4,
@@ -63,14 +63,14 @@
         "phone": "+98-261-277-1711",
         "address": "0782 Debra Circle",
         "salary": 1798,
-        "image": "https://i.ibb.co/J7qY63f/DSC-00944.jpg"
+        "image": "https://i.ibb.co/MhJ3Q09/SAVE-20201230-155812-01-removebg-preview-1-imresizer.jpg"
     },
     {
         "id": 7,
         "firstName": "Humayra",
         "lastName": "Jannat",
         "gender": "Female",
-        "email": "mfeedome6@economist.com",
+        "email": "feedome6@econmist.com",
         "phone": "+963-559-898-8554",
         "address": "64 Brentwood Point",
         "salary": 2390,
@@ -105,7 +105,7 @@
         "gender": "Male",
         "email": "cpatria9@rambler.ru",
         "phone": "+375-732-450-9120",
-        "address": "97145 Summer Ridge Alley",
+        "address": "97145 Ridge Alley",
         "salary": 2315,
         "image": "https://i.ibb.co/7jN6WG6/imansyah-muhamad-putera-n4-Kew-LKFOZw-1024x1024.jpg"
     },

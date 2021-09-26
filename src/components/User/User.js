@@ -9,10 +9,12 @@ const User = (props) => {
 
     return (
         <div className="user">
-            <div>
-                <img src={image} alt="" />
+            <div className="img-container">
+                <div className="image">
+                    <img src={image} alt="" />
+                </div>
             </div>
-            <div>
+            <div className="mt-5">
                 <p><FontAwesomeIcon className="icon" icon={faUser} /> Name: <span className="name">{firstName} {lastName}</span></p>
                 <p><FontAwesomeIcon className="icon" icon={faVenusMars} /> Gender: {gender}</p>
                 <p><FontAwesomeIcon className="icon" icon={faEnvelope} /> Email: {email}</p>
@@ -23,7 +25,7 @@ const User = (props) => {
             <button onClick={() => {
                 props.addToCart(props.user);
 
-            }} className="btn btn-outline-dark w-50 fs-5"><FontAwesomeIcon className="btn-icon" icon={faUserPlus} />  Add</button>
+            }} className="btn btn-outline-dark w-50 fs-5 mt-2"><FontAwesomeIcon className="btn-icon" icon={faUserPlus} />  Add</button>
         </div>
     );
 };
