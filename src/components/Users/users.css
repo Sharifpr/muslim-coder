@@ -5,7 +5,7 @@
 
 .users-container .users {
     display: grid;
-    grid-template-columns: repeat(3, 350px);
+    grid-template-columns: repeat(3, 1fr);
     justify-content: center;
     width: 75%;
     

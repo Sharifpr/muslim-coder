@@ -1,6 +1,5 @@
 .user {
-    width: 300px;
-    height: 480px;
+ 
     text-align: center;
     margin: 20px;
     border: 1.5px solid #e0dede;
@@ -24,7 +23,7 @@
     width: 100px;
     border-radius: 50%;
     padding: 3px;
-    transform: translate(90px, 45px);
+    transform: translate(120px, 45px);
     
   }
 
