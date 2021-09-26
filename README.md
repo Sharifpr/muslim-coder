@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# live side Link
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is  [my project](https://muslim-developer-41c72c.netlify.app/).
 
 ## Available Scripts
 
