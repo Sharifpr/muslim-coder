@@ -2,11 +2,14 @@
     margin: 10px;
     background: white;
     padding: 10px;
-    /* width: 100px; */
+    width: 120px;
     box-shadow: 5px 5px 5px #b8b8b852;
   }
   
-
+.avatar img {
+  width: 75%;
+  border-radius: 50%;
+}
   
   .avatar h5 {
     margin: 4px 0 0 0;

@@ -1,13 +1,10 @@
 .cart {
     text-align: center;
     border: 1px solid black;
-    width: 20%;
-    height: 800px;
-    overflow: auto;
+    width: 100%;
     padding: 10px;
     background-color: #f1f1f1;
     border-radius: 4px;
-    position: fixed;
     margin-right: 20px;
     border: 1.5px solid #e0dede;
     box-shadow: 10px 10px 10px #b8b8b852;
