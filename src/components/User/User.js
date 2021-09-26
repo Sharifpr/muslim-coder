@@ -1,7 +1,7 @@
 import React from 'react';
 import './User.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faUser, faVenusMars, faEnvelope, faPhone, faMapMarkedAlt, faMoneyCheckAlt, faPlusSquare } from '@fortawesome/free-solid-svg-icons';
+import { faUser, faVenusMars, faEnvelope, faPhone, faMapMarkedAlt, faMoneyCheckAlt, faUserPlus } from '@fortawesome/free-solid-svg-icons';
 
 const User = (props) => {
     const { image, firstName, lastName, gender, email, phone, address, salary } = props.user;
@@ -23,7 +23,7 @@ const User = (props) => {
             <button onClick={() => {
                 props.addToCart(props.user);
 
-            }} className="btn btn-outline-dark w-50 fs-5"><FontAwesomeIcon className="btn-icon" icon={faPlusSquare} />  Add</button>
+            }} className="btn btn-outline-dark w-50 fs-5"><FontAwesomeIcon className="btn-icon" icon={faUserPlus} />  Add</button>
         </div>
     );
 };
