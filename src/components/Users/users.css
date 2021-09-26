@@ -4,9 +4,9 @@
 }
 
 .users-container .users {
-    display: flex;
+    display: grid;
+    grid-template-columns: repeat(3, 350px);
     justify-content: center;
-    flex-wrap: wrap;
     width: 75%;
     
 }

@@ -15,7 +15,7 @@ const Users = () => {
 
     return (
         <div className="users-container">
-            <div className="users">
+            <div className="users ms-lg-5">
                 {
                     fakeData.map(user => <User
                         key={user.id}
